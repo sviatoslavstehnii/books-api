@@ -18,5 +18,9 @@ Use GET method to get book by id.
 Use POST to create new book.
 ![image](https://github.com/sviatoslavstehnii/books-api/assets/81622077/4a7def75-2b56-435e-8f81-ee50b41ddabd)
 
+Use PUT method to update existing book.
+![image](https://github.com/sviatoslavstehnii/books-api/assets/81622077/2c579b56-e9ff-4988-9f54-d3dce67344c3)
+
+
 Use DELETE to delete book by id.
 ![image](https://github.com/sviatoslavstehnii/books-api/assets/81622077/1dc4aa1c-e62e-48e7-afe6-e895511b9ddd)
