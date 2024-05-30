@@ -1,9 +1,9 @@
 # books-api
 
 ## Usage
-In order to start the api you need to run following commands<br>
-`npm i` to download dependencies.
-`npm start` to start the server.
+In order to start the api you need to run following commands`npm i` to download dependencies,`npm start` to start the server.<br>
+Before that you have to create .env file, that will contain desired PORT and MONGODB_URL (so you can connect to your database).
+
 
 ## Example
 
